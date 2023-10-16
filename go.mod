@@ -1,4 +1,4 @@
-module github.com/simplesurance/bunny-go
+module github.com/Aniem-Couple-of-Coders/Go-Module-Bunny
 
 go 1.18
 

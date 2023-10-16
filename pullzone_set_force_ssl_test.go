@@ -10,7 +10,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 
-	bunny "github.com/simplesurance/bunny-go"
+	bunny "github.com/Aniem-Couple-of-Coders/Go-Module-Bunny"
 )
 
 func TestSetForceSSL(t *testing.T) {

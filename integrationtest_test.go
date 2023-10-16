@@ -8,8 +8,8 @@ import (
 	"os"
 	"testing"
 
+	bunny "github.com/Aniem-Couple-of-Coders/Go-Module-Bunny"
 	"github.com/google/uuid"
-	bunny "github.com/simplesurance/bunny-go"
 	"github.com/stretchr/testify/require"
 )
 

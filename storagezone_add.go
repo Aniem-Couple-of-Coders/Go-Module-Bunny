@@ -10,7 +10,8 @@ type StorageZoneAddOptions struct {
 	Name *string `json:"Name,omitempty"`
 	// The ID of the storage zone that the storage zone is linked to.
 	Region *string `json:"Region,omitempty"`
-
+	// The zone tier of the storage
+	ZoneTier *string `json:"ZoneTier,omitempty"`
 	// The origin URL of the storage zone where the files are fetched from (Optional)
 	OriginURL *string `json:"OriginUrl,omitempty"`
 	// The code of the main storage zone region (Optional)

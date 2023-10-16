@@ -7,10 +7,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 
-	bunny "github.com/simplesurance/bunny-go"
+	bunny "github.com/Aniem-Couple-of-Coders/Go-Module-Bunny"
 )
 
 func TestVideoLibraryCRUD(t *testing.T) {
